@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>https://cyprienruffino.github.io/authors/</link>
+      <atom:link href="https://cyprienruffino.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cyprienruffino.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://cyprienruffino.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://cyprienruffino.github.io/authors/admin/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a third-year Ph. D student in the LITIS Lab at INSA Rouen Normandy, under the supervision of Romain Hérault and the direction of Gilles Gasso. I am interested in deep
+learning and deep generative models, especially in the conditioning of generative adversarial networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eric Laloy</title>
+      <link>https://cyprienruffino.github.io/authors/eric-laloy/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/authors/eric-laloy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gilles Gasso</title>
+      <link>https://cyprienruffino.github.io/authors/gilles-gasso/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/authors/gilles-gasso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romain Hérault</title>
+      <link>https://cyprienruffino.github.io/authors/romain-herault/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/authors/romain-herault/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
