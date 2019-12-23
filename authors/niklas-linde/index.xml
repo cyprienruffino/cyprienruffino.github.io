@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niklas Linde | Cyprien Ruffino</title>
+    <link>https://cyprienruffino.github.io/authors/niklas-linde/</link>
+      <atom:link href="https://cyprienruffino.github.io/authors/niklas-linde/index.xml" rel="self" type="application/rss+xml" />
+    <description>Niklas Linde</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cyprienruffino.github.io/img/icon-192.png</url>
+      <title>Niklas Linde</title>
+      <link>https://cyprienruffino.github.io/authors/niklas-linde/</link>
+    </image>
+    
+    <item>
+      <title>Gradient-based deterministic inversion of geophysical data with generative adversarial networks: Is it feasible?</title>
+      <link>https://cyprienruffino.github.io/publication/compgeo2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/publication/compgeo2019/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
