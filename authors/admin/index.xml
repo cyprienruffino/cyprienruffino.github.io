@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyprien Ruffino</title>
+    <link>https://cyprienruffino.github.io/authors/admin/</link>
+      <atom:link href="https://cyprienruffino.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cyprien Ruffino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cyprienruffino.github.io/img/icon-192.png</url>
+      <title>Cyprien Ruffino</title>
+      <link>https://cyprienruffino.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Pixel-wise Conditioned Generative Adversarial Networks for Image Synthesis and Completion</title>
+      <link>https://cyprienruffino.github.io/publication/neucom2019/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/publication/neucom2019/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gradient-based deterministic inversion of geophysical data with generative adversarial networks: Is it feasible?</title>
+      <link>https://cyprienruffino.github.io/publication/compgeo2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/publication/compgeo2019/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pixel-wise Conditioning of Generative Adversarial Networks</title>
+      <link>https://cyprienruffino.github.io/publication/esann2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/publication/esann2019/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dilated Spatial Generative Adversarial Networks for Ergodic Image Generation</title>
+      <link>https://cyprienruffino.github.io/publication/cap2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/publication/cap2018/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
