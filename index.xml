@@ -5,12 +5,23 @@
     <link>https://cyprienruffino.github.io/</link>
       <atom:link href="https://cyprienruffino.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Cyprien Ruffino</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cyprienruffino.github.io/img/icon-192.png</url>
       <title>Cyprien Ruffino</title>
       <link>https://cyprienruffino.github.io/</link>
     </image>
+    
+    <item>
+      <title>PhD Thesis: Auxiliary Tasks for the Conditioning of Generative Adversarial Networks</title>
+      <link>https://cyprienruffino.github.io/publication/these/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/publication/these/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pixel-wise Conditioned Generative Adversarial Networks for Image Synthesis and Completion</title>
