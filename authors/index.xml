@@ -12,5 +12,55 @@
       <link>https://cyprienruffino.github.io/authors/</link>
     </image>
     
+    <item>
+      <title></title>
+      <link>https://cyprienruffino.github.io/authors/admin/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I did my PhD at the LITIS Lab at INSA Rouen Normandy, under the supervision of Romain Hérault and the direction of Gilles Gasso. I am interested in deep
+learning and deep generative models, especially in the conditioning of generative adversarial networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eric Laloy</title>
+      <link>https://cyprienruffino.github.io/authors/eric-laloy/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/authors/eric-laloy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gilles Gasso</title>
+      <link>https://cyprienruffino.github.io/authors/gilles-gasso/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/authors/gilles-gasso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romain Hérault</title>
+      <link>https://cyprienruffino.github.io/authors/romain-herault/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/authors/romain-herault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diederik Jacques</title>
+      <link>https://cyprienruffino.github.io/authors/diederik-jacques/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/authors/diederik-jacques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niklas Linde</title>
+      <link>https://cyprienruffino.github.io/authors/niklas-linde/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://cyprienruffino.github.io/authors/niklas-linde/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
