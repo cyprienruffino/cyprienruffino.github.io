@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thierry Paquet | Cyprien Ruffino</title>
-    <link>https://cyprienruffino.github.io/authors/thierry-paquet/</link>
-      <atom:link href="https://cyprienruffino.github.io/authors/thierry-paquet/index.xml" rel="self" type="application/rss+xml" />
+    <title>Thierry Paquet | Academic</title>
+    <link>https://example.com/authors/thierry-paquet/</link>
+      <atom:link href="https://example.com/authors/thierry-paquet/index.xml" rel="self" type="application/rss+xml" />
     <description>Thierry Paquet</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cyprienruffino.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Thierry Paquet</title>
-      <link>https://cyprienruffino.github.io/authors/thierry-paquet/</link>
+      <link>https://example.com/authors/thierry-paquet/</link>
     </image>
     
     <item>
       <title>CTCModel: Connectionist Temporal Classification in Keras</title>
-      <link>https://cyprienruffino.github.io/publication/ctcmodel/</link>
+      <link>https://example.com/publication/ctcmodel/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://cyprienruffino.github.io/publication/ctcmodel/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://example.com/publication/ctcmodel/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
