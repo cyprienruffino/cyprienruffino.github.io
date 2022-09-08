@@ -5,12 +5,21 @@
     <link>https://example.com/authors/admin/</link>
       <atom:link href="https://example.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/authors/admin/avatar_hu4dc88d8438bb99d4361230157c2b56b7_47686_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Academic</title>
       <link>https://example.com/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Physically-admissible polarimetric data augmentation for road-scene analysis</title>
+      <link>https://example.com/publication/cviu2022/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/cviu2022/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PhD Thesis: Auxiliary Tasks for the Conditioning of Generative Adversarial Networks</title>
